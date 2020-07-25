@@ -10,7 +10,8 @@ h1{
 }
 section{
     float: left;
-    border:black,2px;
+    border:black,5px;
     background-color: dimgray;
     width: 25%;
+    margin: 20px;
 }
