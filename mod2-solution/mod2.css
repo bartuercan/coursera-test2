@@ -9,8 +9,9 @@ h1{
     margin: auto;
 }
 section{
+    padding: 5px;
+    border: 3px black;
     float: left;
-    border:black,5px;
     background-color: dimgray;
     width: 25%;
     margin: 20px;
