@@ -9,7 +9,7 @@ h1{
 h2{
     font-size: 125%;
     border: 2px,black;
-    float right;
+    float: right;
 }
 section{
     float: left;
