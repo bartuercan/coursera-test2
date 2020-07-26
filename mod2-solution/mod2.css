@@ -13,11 +13,24 @@ section{
     border:  4px solid black;
     float: left;
     background-color: dimgray;
-    width: 300px;
-    margin: 30px;
+    width: 30%;
+    margin: 50px;
 }
 h2{
     float:right;
+    border: solid black 4px;
+}
+#first-h{
+    background-color: crimson;
+    color: gainsboro;
+}
+#sec-h{
+    background-color: darkorange;
+    color: black;
+}
+#third-h{
+    background-color: darkturquoise;
+    color: black;
 }
 p{
     clear: right;
