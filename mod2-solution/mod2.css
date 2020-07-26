@@ -10,7 +10,7 @@ h1{
 }
 section{
     padding: 15px;
-    border: 30px;
+    border:  2px solid black;
     float: left;
     background-color: dimgray;
     width: 25%;
