@@ -16,3 +16,9 @@ section{
     width: 300px;
     margin: 30px;
 }
+h2{
+    float:right;
+}
+p{
+    clear: right;
+}
