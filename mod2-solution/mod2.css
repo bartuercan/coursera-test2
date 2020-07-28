@@ -13,7 +13,7 @@ h1{
 section{
   position: relative;
   border:  1px solid black;
-  padding: top 30px;
+  padding: top 35px;
   float: left;
   background-color: lightgray;
   width: 30%;
@@ -22,7 +22,7 @@ section{
 }
 h2{ 
   position: absolute;
-  top: -25px;
+  top: -30px;
   right: 0;
   float: right;
   border: solid black 2px;
