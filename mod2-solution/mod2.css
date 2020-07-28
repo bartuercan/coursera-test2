@@ -21,6 +21,7 @@ section{
 h2{ 
   float: right;
     position: absolute;
+    clear: left;
     top: 0;
     right:0;
     border: solid black 4px;
