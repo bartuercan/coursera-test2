@@ -11,6 +11,7 @@ h1{
 }
 div{
   position: relative;
+  clear: both;
 }
 section{
     border:  1px solid black;
@@ -21,7 +22,6 @@ section{
 }
 h2{ 
     position: absolute;
-    clear: left;
     top: 0;
     right:0;
     border: solid black 2px;
