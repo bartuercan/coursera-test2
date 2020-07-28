@@ -19,7 +19,9 @@ section{
     margin: 20px;
 }
 h2{ 
-    float:right;
+    position: absolute;
+    top: 0;
+    right:0;
     border: solid black 4px;
 }
 #first-h{
