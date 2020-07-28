@@ -8,7 +8,7 @@ h1{
     text-align: center;
     font-size: 175%;
     margin-top: 15px;
-    margin-bottom: 30px;
+    margin-bottom: 40x;
 }
 section{
   position: relative;
@@ -36,6 +36,7 @@ h2{
 #sec-h{
     background-color: darkorange;
     color: black;
+    overflow: hidden;
 }
 #third-h{
     background-color: darkblue;
