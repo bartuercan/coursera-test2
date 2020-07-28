@@ -21,7 +21,6 @@ section{
 }
 h2{ 
     position: absolute;
-    clear: left;
     top: 0;
     right:0;
     border: solid black 2px;
@@ -40,7 +39,6 @@ h2{
     color: black;
 }
 p{
-    clear: right;
     width: 90%;
     margin-right: auto;
     margin-left: auto;
