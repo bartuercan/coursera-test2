@@ -3,28 +3,30 @@
     font-style: italic;
     box-sizing: border-box;
 }
+
 h1{
     text-align: center;
     font-size: 175%;
-    margin-top: 20px;
+    margin-top: 15px;
     margin-bottom: 15px;
+}
+section{
+  border:  1px solid black;
+  float: left;
+  background-color: lightgray;
+  width: 30%;
+  margin: 20px;
+  padding: 0px;
+}
+h2{ 
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: solid black 2px;
+  display: inline;
 }
 div{
   position: relative;
-  clear: both;
-}
-section{
-    border:  1px solid black;
-    float: left;
-    background-color: lightgray;
-    width: 30%;
-    margin: 20px;
-}
-h2{ 
-    position: absolute;
-    top: 0;
-    right: 0;
-    border: solid black 2px;
 }
 #first-h{
     background-color: crimson;
