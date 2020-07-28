@@ -11,11 +11,10 @@ h1{
 }
 section{
     position: relative;
-    padding: 5px;
     border:  1px solid black;
     float: left;
     background-color: lightgray;
-    width: 30%;
+    width: 33%;
     margin: 20px;
 }
 h2{ 
@@ -24,7 +23,7 @@ h2{
     clear: left;
     top: 0;
     right:0;
-    border: solid black 4px;
+    border: solid black 2px;
 }
 #first-h{
     background-color: crimson;
