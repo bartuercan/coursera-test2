@@ -26,6 +26,7 @@ h2{
   right: 0;
   float: right;
   border: solid black 2px;
+  display:inline-block;
 }
 
 #first-h{
