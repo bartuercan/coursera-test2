@@ -21,6 +21,7 @@ section{
 }
 h2{ 
     position: absolute;
+    clear: left;
     top: 0;
     right:0;
     border: solid black 2px;
@@ -32,7 +33,6 @@ h2{
 #sec-h{
     background-color: darkorange;
     color: black;
-    padding: left right 5px;
 }
 #third-h{
     background-color: darkturquoise;
