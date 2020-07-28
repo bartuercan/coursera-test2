@@ -11,6 +11,7 @@ h1{
     margin-bottom: 15px;
 }
 section{
+  position: relative;
   border:  1px solid black;
   float: left;
   background-color: lightgray;
@@ -22,14 +23,11 @@ h2{
   position: absolute;
   top: 0;
   right: 0;
+  float: right;
   border: solid black 2px;
   display: inline;
 }
-div{
-  position: relative;
-  float:right;
-  clear: both;
-}
+
 #first-h{
     background-color: crimson;
     color: gainsboro;
