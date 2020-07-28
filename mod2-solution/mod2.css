@@ -28,6 +28,7 @@ h2{
 div{
   position: relative;
   float:right;
+  clear: both;
 }
 #first-h{
     background-color: crimson;
