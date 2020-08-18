@@ -39,7 +39,7 @@
   }
 button.navbar-toggle {
     clear: both;
-    margin-top: -30px;
+    margin-top: -40px;
   }
   @media (min-width: 768px){
      .navbar-nav .nav-link {
